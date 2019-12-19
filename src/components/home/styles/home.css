@@ -1,0 +1,41 @@
+.nav {
+    background-color: #6d8da6;
+    padding: 10px;
+}
+
+.nav1 {
+    font-weight: bold;
+    color: white;
+}
+
+.nav2 {
+    color: white;
+    text-align: center;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-decoration: none !important;
+}
+
+.nav3 {
+    color: white !important;
+}
+
+.iconspad {
+    padding: 10px;
+
+}
+
+.iconspad:hover {
+    color: #EEA200;
+}
+
+.nav2 {
+
+    text-decoration: none;
+}
+
+.nav2:hover {
+    transition: 0.8s;
+    color: #EEA200;
+
+}
