@@ -1,0 +1,21 @@
+.adminHead{
+    color: white;
+    padding-left: 14px;
+    padding-top: 40px;
+   
+}
+.col{
+    height: 350px;
+    width: 350px;
+    background-color: #435c70;
+    margin-right: 12px;
+    margin-top: 25px;
+
+}
+.colodd{
+    height: 350px;
+    width: 350px;
+    background-color: #435c70;
+    margin-left: 12px;
+    margin-top: 25px;
+}

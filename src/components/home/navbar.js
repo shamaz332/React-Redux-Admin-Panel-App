@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {Navbar,Nav,Form,FormControl,Button,NavDropdown} from 'react-bootstrap'
+import {Navbar,Nav} from 'react-bootstrap'
 import './styles/home.css'
 
 class Navbarr extends Component {
@@ -25,7 +25,7 @@ class Navbarr extends Component {
         </a>
 
         <a href="#features" className='nav2 '>
-        <i class="fas fa-file-alt fa-2x iconspad"></i>
+        <i className="fas fa-file-alt fa-2x iconspad"></i>
         <br></br>
        Reports
         </a>
